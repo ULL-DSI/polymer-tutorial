@@ -1,0 +1,26 @@
+{
+  "name": "polymer-tutorial",
+  "homepage": "https://github.com/ULL-DSI/polymer-tutorial",
+  "authors": [
+    "Casiano Rodriguez Leon <casiano.rodriguez.leon@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "polymer"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}

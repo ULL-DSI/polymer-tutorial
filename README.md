@@ -3,6 +3,7 @@
 
           npm install -g bower
 
+* `bower init` (See [bower.json specification](https://github.com/bower/spec/blob/master/json.md))
 * [Get the Polymer library](https://www.polymer-project.org/1.0/docs/start/getting-the-code.html)
 
             bower install --save Polymer/polymer#^1.2.0
