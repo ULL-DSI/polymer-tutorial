@@ -10,7 +10,9 @@
 
 * If you try to open the file `index.html` an error occurs (see the console) 
 
-             Imported resource from origin 'file://' has been blocked from loading by Cross-Origin Resource Sharing policy: Invalid response. Origin 'null' is therefore not allowed access.
+             Imported resource from origin 'file://' has been blocked from loading 
+             by Cross-Origin Resource Sharing policy: Invalid response. 
+             Origin 'null' is therefore not allowed access.
 
 * Instead do `npm install -g http-server` (a static server)
 * Run `http-server`
