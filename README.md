@@ -8,6 +8,10 @@
 
             bower install --save Polymer/polymer#^1.2.0
 
-* `npm install -g http-server` (a static server)
+* If you try to open the file `index.html` an error occurs (see the console) 
+
+             Imported resource from origin 'file://' has been blocked from loading by Cross-Origin Resource Sharing policy: Invalid response. Origin 'null' is therefore not allowed access.
+
+* Instead do `npm install -g http-server` (a static server)
 * Run `http-server`
 * Visit the page [http://127.0.0.1:8080/](http://127.0.0.1:8080/)
